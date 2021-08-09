@@ -1,0 +1,2 @@
+Formulas: 
+1. Sum of first n numbers: n * (n + 1)/2.
